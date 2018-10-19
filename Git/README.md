@@ -1,5 +1,6 @@
 # GitHub and Git commandline
 
+**REMEMBER TO MESSAGE KEENAN IN SLACK OR TEXT HIM WITH QUESTIONS, DONT GET FLUSTERED** 
 ### Getting Started
 
 Be sure to have terminal open and be in your root directory
@@ -63,3 +64,10 @@ $ git push origin master
 > If you did this correctly
 
 You should be able to see your updated readme on the github website in your new project.
+
+**STOP and reflect**
+
+Cool Beans, you just learned source control. And believe me, its so confusing. Guys I know who have been coding for decades still 
+google how to do shit in git. So nice work.
+
+Now, click [here](https://github.com/KJRSdevs/BootCamp/tree/master/NodeExpress) to go to your next lesson
