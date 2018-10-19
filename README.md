@@ -288,7 +288,7 @@ By using the ` (the tick above the left tab key) you and type a string (text) an
 
 Go ahead and add string interpolation to your other functions and try them out.
 
-You have reached the end of the Intro, niceeee. Now its time to get going. Click here to get started on your first assignment.
+You have reached the end of the Intro, niceeee. Now its time to get going. Click [here](https://github.com/KJRSdevs/BootCamp/tree/master/Git) to get started on your first assignment.
 
 Also, if you made it this far, then you are golden. I know its a lot, and its super confusing. And we havent even scratched the surface. 
 But you have taken the first steps to learning how to make the computer do things for you, and not just use a computer.
