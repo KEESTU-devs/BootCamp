@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d44af3-998e-4d8d-8b9e-e350a3d83e99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,13 +33,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="8818" />
+          <entry key="md" value="10426" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="ECMAScript 6" value="2" />
-          <entry key="Markdown" value="8816" />
+          <entry key="Markdown" value="10424" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -48,23 +48,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="765">
-                <caret line="303" column="45" selection-start-line="303" selection-start-column="45" selection-end-line="303" selection-end-column="45" />
+              <first_editor relative-caret-position="420">
+                <caret line="288" column="26" selection-start-line="288" selection-start-column="26" selection-end-line="288" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Git/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="778">
+                <caret line="64" column="88" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -109,6 +111,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Git/README.md" />
       </list>
     </option>
   </component>
@@ -135,6 +138,11 @@
             <path>
               <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Git" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,12 +179,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539925536628</updated>
-      <workItem from="1539925537827" duration="5951000" />
+      <workItem from="1539925537827" duration="6798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5951000" />
+    <option name="totallyTimeSpent" value="6798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1660" height="987" extended-state="0" />
@@ -208,14 +216,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Git/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -243,8 +243,18 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="765">
-            <caret line="303" column="45" selection-start-line="303" selection-start-column="45" selection-end-line="303" selection-end-column="45" />
+          <first_editor relative-caret-position="420">
+            <caret line="288" column="26" selection-start-line="288" selection-start-column="26" selection-end-line="288" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="778">
+            <caret line="64" column="88" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
           </first_editor>
           <second_editor />
         </state>
