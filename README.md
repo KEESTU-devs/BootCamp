@@ -45,7 +45,7 @@ Slack also allows direct messaging
 Sublime Text 3 is the free text editor of choice for many developers. It offers much in the way of customization, but starts 
 out as a very bare bones editor.
 
-Until you need more from  your editor, sublime text should get the job done. Even now I still use Sublime when my normal editor is running slowly.
+*Until you need more from  your editor, sublime text should get the job done. Even now I still use Sublime when my normal editor is running slowly.*
 
 #### Simlink
 
@@ -121,8 +121,7 @@ Ok, lets try to see some hidden things that Apple doesn't want the average user 
 $ ls -a
 ```
 BOOM, see those strange directories . .. and the strange files .ds_store and .localized?
-
-We dont really care about those files, but its cool that Terminal can show you things that are hidden. 
+>We dont really care about those files, but its cool that Terminal can show you things that are hidden. 
 
 Terminal can also execute programs, lets try it
 ```$xslt
@@ -291,3 +290,15 @@ Go ahead and add string interpolation to your other functions and try them out.
 
 You have reached the end of the Intro, niceeee. Now its time to get going. Click here to get started on your first assignment.
 
+Also, if you made it this far, then you are golden. I know its a lot, and its super confusing. And we havent even scratched the surface. 
+But you have taken the first steps to learning how to make the computer do things for you, and not just use a computer.
+
+**Take a break**
+
+Coding is a lot of challenge for your mind. Mental exhaustion is real, and if you are feeling tired take a breather. Like any sport
+you don't want to over do it starting out. However you will need to build up the mental endurance going forward.  
+
+Some companies have hack-a-thons that people can participate in. I did a 48 hour hack-a-thon once where me and a team of 5 worked for 48 hours straight 
+at the office. We slept in our cars when we needed sleep. It was super fun, and I can't wait to do another one. But if I had done that when 
+I was first learning, I think I would have quit and never returned to code again.  Take your time learning, dont drown. But do push yourself
+harder and harder to become better and better 
